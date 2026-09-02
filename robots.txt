@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://MnMemphis999.github.io/celebrating-life-memorial-resources/sitemap.xml
